@@ -1,3 +1,3 @@
 # hello-world-1
 I love :coffee: :pizza:,and:dancer:.
-you love :fruit:and:vegetable:.
+I love :fruit:and:vegetable:.
